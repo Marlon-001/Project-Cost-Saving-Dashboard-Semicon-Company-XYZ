@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-As a Manufucturing Engineer Data Dnalysis enthusiastenthusiast, I developed this dynamic Excel dashboard to monitor, track, and forecast cost-saving initiatives for over **50+ active projects**.
+As an Advanced Manufacturing Engineer and Data Analytics enthusiast, I developed this dynamic Excel dashboard to monitor, track, and forecast cost-saving initiatives for 50+ active projects.
 
 The primary goal is to provide a centralized "Source of Truth" for management to visualize financial impacts across three core pillars: **Material**, **Yield (Defect Reduction)**, and **Labor**.
 
